@@ -1,6 +1,24 @@
-## Hi there 👋
-I'm passionate about robotics, electronics, and programming. I enjoy working with ESP32, Arduino, sensors, Bluetooth communication, and building robots such as line followers and sumo robots.
+# Hi there 👋
 
-I also have experience with Minecraft modding and server-related projects. Currently, I'm improving my English skills and learning new technologies every day.
+I'm Ruzimuhammad from Uzbekistan 🇺🇿
 
-My goal is to develop innovative hardware and software projects while continuously expanding my knowledge in engineering and programming.
+## 🚀 About Me
+- 🤖 Robotics enthusiast
+- 🔧 Working with Arduino & ESP32
+- 💻 Learning Python and programming
+- 🎮 Minecraft player
+- 📚 Improving my English skills
+
+## 🛠️ Technologies
+- Arduino
+- ESP32
+- Python
+- C++
+- Bluetooth
+- Electronics
+
+## 🎯 Goals
+I want to create innovative robotics and IoT projects while continuously improving my programming and engineering skills.
+
+## 📫 Contact
+Email: ruzimuhammad0908@gmail.com
