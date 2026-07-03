@@ -6,7 +6,7 @@ I'm Ruzimuhammad from Uzbekistan 🇺🇿
 - 🤖 Robotics enthusiast
 - 🔧 Working with Arduino & ESP32
 - 💻 Learning Python and programming
-- 🎮 Minecraft player
+- 🎮 The best Minecraft player in the Fergana
 - 📚 Improving my English skills
 
 ## 🛠️ Technologies
